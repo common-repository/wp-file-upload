@@ -1,0 +1,10 @@
+<!--  -->
+<div class="wfu-releasenotes-container">
+	<span><strong>Version 4.24.12</strong> is a minor update that fixes a security issue in the download function of the plugin.<br /><br />
+	Please note that since Version 4.24.0 the <strong>Professional</strong> version of the plugin introduces some significant changes, such as <strong>licensing</strong> and <strong>external extensions</strong>.
+	<br /><br />
+	For more details about this version's changes please visit the <strong>Release Notes</strong> of the plugin's </span>
+	<a href="http://www.iptanus.com/wordpress-plugins/wordpress-file-upload/">support page</a><span>.</span>
+</div>
+<!--  -->
+<!--  -->
